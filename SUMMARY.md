@@ -2,5 +2,5 @@
 
 * [介绍](README.md)
 * [API](api.md)
-   * forEach
+   * [forEach](foreach.md)
 
