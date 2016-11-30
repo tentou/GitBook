@@ -1,7 +1,6 @@
 # Summary
 
-* [练习文档](README.md)
-* [介绍](introduce.md)
+* [介绍](README.md)
 * [API](api.md)
    * forEach
 
