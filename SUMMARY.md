@@ -5,5 +5,4 @@
    * 整张
 * [API](api.md)
    * forEach
-       * 代码
 
