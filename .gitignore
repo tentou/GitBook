@@ -9,6 +9,7 @@ build/ftp-uploader.js
 
 node_modules/
 dist/
+.idea/
 gitbook/
 db.json
 npm-debug.log
